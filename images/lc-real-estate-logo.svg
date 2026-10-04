@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 76" fill="none">
+  <rect x="2.5" y="3.5" width="68" height="68" stroke="#c9a66b"/>
+  <rect x="7.5" y="8.5" width="58" height="58" stroke="#e1c995" stroke-opacity=".52"/>
+  <path d="M15 60.5h43M15 60.5V17" stroke="#c9a66b" stroke-opacity=".45"/>
+  <text x="13" y="51" fill="#e1c995" font-family="Georgia,serif" font-size="39" letter-spacing="-5">LC</text>
+  <circle cx="59" cy="59" r="3" fill="#c9a66b"/>
+  <path d="M88 17h2" stroke="#c9a66b" stroke-width="2"/>
+  <text x="98" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="18" font-weight="700" letter-spacing="4.1">LC</text>
+  <text x="98" y="48" fill="#fff" font-family="Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="2.5">REAL ESTATE</text>
+  <text x="99" y="65" fill="#e1c995" font-family="Arial,sans-serif" font-size="9" font-weight="500" letter-spacing="3.1">GROUP &amp; HUB</text>
+</svg>
